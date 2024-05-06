@@ -1,2 +1,5 @@
 # hse_hw_decorators
-Start in DS step course hw
+
+This repo contains hw for block 6 of "Start in DS!" course powered by HSE.
+
+Created by: Руслан Исхаков
